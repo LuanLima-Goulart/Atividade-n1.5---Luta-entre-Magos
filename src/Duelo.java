@@ -1,11 +1,5 @@
-// Importamos o Random para a IA dos magos
 import java.util.Random;
 
-/**
- * A classe Duelo gerencia um combate entre dois Magos.
- * Ela usa o conceito de Agregação (ela "tem" dois Magos).
- * * Adaptado da sua classe 'Corrida'.
- */
 public class Duelo {
     private Mago desafiante;
     private Mago desafiado;
